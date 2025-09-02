@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.27.18822.0%0D%0A%0D%0A00:00:00.192%20--%3E%2000:00:04.576%0D%0ANow%20that%20you%E2%80%99ve%20identified%20your%20target,%20let%E2%80%99s%20think%20about%20crafting%20the%20perfect%20phishing%20email.%0D%0A%0D%0A"}')
